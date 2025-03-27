@@ -1,1 +1,2 @@
 # OSPF
+OSPF (Open Shortest Path First) is a dynamic routing protocol used to find the best path for data to travel across an IP network. It automatically adjusts routes as network changes occur, improving efficiency and scalability. Dynamic routing allows routers to exchange routing information and adapt to network topology changes without manual intervention, making it ideal for large and complex networks. OSPF is particularly known for its fast convergence and use of link-state information to determine optimal paths.
